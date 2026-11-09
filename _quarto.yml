@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Nodo de Matemáticas Aplicadas | Cinvestav"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Inicio
+      - href: seminario.qmd
+        text: Seminario
+      - href: integrantes.qmd
+        text: Integrantes
+  margin-header: |
+      ![](/media/cinvestav.png){width=75}
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: false
+
+
+

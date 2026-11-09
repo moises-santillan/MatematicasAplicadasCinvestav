@@ -1,0 +1,15 @@
+---
+title: "Seminario Permanente"
+---
+### Calendatio de seminarios
+
+| Fecha | Ponente | Título del Seminario | Enlace
+| :--- | :--- | :--- | :--- |
+| 10 de noviembre | Jesús Ismael García Alcántara | Minería de datos aplicada al análisis energético de rutas en redes ZigBee | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_Y2ZjYzdlNjItYWNiNy00ODU1LTljMTgtNGViMzU5MWVjNTg1%40thread.v2/0?context=%7b%22Tid%22%3a%226497bc6d-7e82-48c2-b571-9e9489ce1a4c%22%2c%22Oid%22%3a%22fcf5f1a9-6809-4f73-8028-ba43cc1b822d%22%7d)
+| 17 de noviembre | Iván Esaú Malpica Velasco | Controlador para vuelo comandado por velocidades en un cuatrirotor | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDFjYjIwMDUtYmEzZS00MWZkLTlkMGUtNDZkNGViN2RlOWZi%40thread.v2/0?context=%7b%22Tid%22%3a%226497bc6d-7e82-48c2-b571-9e9489ce1a4c%22%2c%22Oid%22%3a%22fcf5f1a9-6809-4f73-8028-ba43cc1b822d%22%7d)
+
+Los seminarios son en línea y se llevan a cabo los días martes a las 13:00 hrs.
+
+### Agenda tu presentación
+
+¿Te interesa impartit un seminario? Puedes agendarlo en el siguiente enlace: [Booking Page](https://bookings.cloud.microsoft/book/SeminariodeMatemticasAplicadas@cinvestav365.onmicrosoft.com/?ismsaljsauthenabled)
